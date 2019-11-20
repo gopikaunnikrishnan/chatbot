@@ -1,0 +1,6 @@
+Open command prompt in the current directory
+type: python manage.py runserver
+open chrome
+type: http://127.0.0.1:8000/ and run
+
+You will see a chat button. Chat

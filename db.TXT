@@ -1,0 +1,6 @@
+hello:hi
+how are you:fine
+what are you doing:Chatting with you
+How is it going: i am good
+Do you like football:yes i like football very much
+hi:hello 
